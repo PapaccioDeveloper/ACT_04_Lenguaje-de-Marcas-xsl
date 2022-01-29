@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="PokemonXSL.xsl"?>
+
+<pokemons>
+    <pokemon tipo="Hielo">
+        <nombre maxlength="10">Charizard </nombre>
+        <codigo pattern="PK-">0001</codigo>
+        <foto>img/f.jpg</foto>
+        <color>Azul</color>  
+        <fuerza>23</fuerza>
+        <comentario maxlength="50">Lorem ipsum</comentario>
+    </pokemon>
+    <pokemon tipo="Fuego">
+        <nombre maxlength="10">Pikachu </nombre>
+        <codigo pattern="PK-">0001</codigo>
+        <foto>img/a.jpg</foto>
+        <color>Azul</color>  
+        <fuerza>55</fuerza>
+        <comentario maxlength="50">Lorem ipsum</comentario>
+    </pokemon>
+    <pokemon tipo="Agua">
+        <nombre maxlength="10">Bulbasur </nombre>
+        <codigo pattern="PK-">0001</codigo>
+        <foto>img/b.jpg</foto>
+        <color>Rojo</color>  
+        <fuerza>88</fuerza>
+        <comentario maxlength="50">Lorem ipsum</comentario>
+    </pokemon>
+    <pokemon tipo="Hielo">
+        <nombre maxlength="10">Evee </nombre>
+        <codigo pattern="PK-">0001</codigo>
+        <foto>img/c.jpg</foto>
+        <color>Marron</color>  
+        <fuerza>50</fuerza>
+        <comentario maxlength="50">Lorem ipsum</comentario>
+    </pokemon>
+    <pokemon tipo="Fuego">
+        <nombre maxlength="10">Firefox </nombre>
+        <codigo pattern="PK-">0001</codigo>
+        <foto>img/d.jpg</foto>
+        <color>Rojo</color>  
+        <fuerza>10</fuerza>
+        <comentario maxlength="50">Lorem ipsum</comentario>
+    </pokemon>
+    <pokemon tipo="Agua">
+        <nombre maxlength="10">Mew </nombre>
+        <codigo pattern="PK-">0001</codigo>
+        <foto>img/e.jpg</foto>
+        <color>Blanco</color>  
+        <fuerza>90</fuerza>
+        <comentario maxlength="50">Lorem ipsum</comentario>
+    </pokemon>
+
+</pokemons>

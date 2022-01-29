@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="detallePokemon.xsl"?>
+<!-- DESCOMENTAR PARA PROBAR
 <?xml-stylesheet type="text/xsl" href="PokemonXSL.xsl"?>
-
+-->
 <pokemons>
     <pokemon tipo="Hielo">
         <nombre maxlength="10">Charizard </nombre>
@@ -8,7 +10,7 @@
         <foto>img/f.jpg</foto>
         <color>Azul</color>  
         <fuerza>23</fuerza>
-        <comentario maxlength="50">Lorem ipsum</comentario>
+        <comentario maxlength="50">Lorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</comentario>
     </pokemon>
     <pokemon tipo="Fuego">
         <nombre maxlength="10">Pikachu </nombre>
@@ -16,7 +18,7 @@
         <foto>img/a.jpg</foto>
         <color>Azul</color>  
         <fuerza>55</fuerza>
-        <comentario maxlength="50">Lorem ipsum</comentario>
+        <comentario maxlength="50">Lorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</comentario>
     </pokemon>
     <pokemon tipo="Agua">
         <nombre maxlength="10">Bulbasur </nombre>
@@ -24,7 +26,7 @@
         <foto>img/b.jpg</foto>
         <color>Rojo</color>  
         <fuerza>88</fuerza>
-        <comentario maxlength="50">Lorem ipsum</comentario>
+        <comentario maxlength="50">LoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</comentario>
     </pokemon>
     <pokemon tipo="Hielo">
         <nombre maxlength="10">Evee </nombre>
@@ -32,7 +34,7 @@
         <foto>img/c.jpg</foto>
         <color>Marron</color>  
         <fuerza>50</fuerza>
-        <comentario maxlength="50">Lorem ipsum</comentario>
+        <comentario maxlength="50">Lorem iLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLorempsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</comentario>
     </pokemon>
     <pokemon tipo="Fuego">
         <nombre maxlength="10">Firefox </nombre>
@@ -40,7 +42,7 @@
         <foto>img/d.jpg</foto>
         <color>Rojo</color>  
         <fuerza>10</fuerza>
-        <comentario maxlength="50">Lorem ipsum</comentario>
+        <comentario maxlength="50">Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem Lorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremipsumLorem ipsum</comentario>
     </pokemon>
     <pokemon tipo="Agua">
         <nombre maxlength="10">Mew </nombre>
@@ -48,7 +50,7 @@
         <foto>img/e.jpg</foto>
         <color>Blanco</color>  
         <fuerza>90</fuerza>
-        <comentario maxlength="50">Lorem ipsum</comentario>
+        <comentario maxlength="50">Lorem ipsum Lorem Lorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremLorem ipsum Lorem ipsumLoremipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</comentario>
     </pokemon>
 
 </pokemons>
